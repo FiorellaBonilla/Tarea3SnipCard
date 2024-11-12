@@ -37,10 +37,10 @@ export default {
   },
   async asyncData({ $content, params }) {
     try {
-      // Cargar datos del archivo paintings.json para una pintura específica
+   
       const painting = await $content('pinturas', params.slug).fetch()
 
-      // Obtener el slug del artista y del museo basados en el nombre
+  
       const artistSlug = painting.artist.replace(/\s+/g, '-').toLowerCase();
       const museumSlug = painting.museum.replace(/\s+/g, '-').toLowerCase();
 
