@@ -1,0 +1,51 @@
+[
+  {
+    "name": "artistas",
+    "path": "/artistas",
+    "component": "C:\\\\Users\\\\FIO\\\\Downloads\\\\Tarea3SnipCard\\\\pages\\\\artistas.vue",
+    "chunkName": "pages/artistas",
+    "_name": "_51b7caf7"
+  },
+  {
+    "name": "museo",
+    "path": "/museo",
+    "component": "C:\\\\Users\\\\FIO\\\\Downloads\\\\Tarea3SnipCard\\\\pages\\\\museo.vue",
+    "chunkName": "pages/museo",
+    "_name": "_04edcf32"
+  },
+  {
+    "name": "pinturas",
+    "path": "/pinturas",
+    "component": "C:\\\\Users\\\\FIO\\\\Downloads\\\\Tarea3SnipCard\\\\pages\\\\pinturas.vue",
+    "chunkName": "pages/pinturas",
+    "_name": "_d7779768"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\FIO\\\\Downloads\\\\Tarea3SnipCard\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_875f05f8"
+  },
+  {
+    "name": "artista-slug",
+    "path": "/artista/:slug?",
+    "component": "C:\\\\Users\\\\FIO\\\\Downloads\\\\Tarea3SnipCard\\\\pages\\\\artista\\\\_slug.vue",
+    "chunkName": "pages/artista/_slug",
+    "_name": "_43ce2e0e"
+  },
+  {
+    "name": "museos-slug",
+    "path": "/museos/:slug?",
+    "component": "C:\\\\Users\\\\FIO\\\\Downloads\\\\Tarea3SnipCard\\\\pages\\\\museos\\\\_slug.vue",
+    "chunkName": "pages/museos/_slug",
+    "_name": "_43e853c4"
+  },
+  {
+    "name": "pintura-slug",
+    "path": "/pintura/:slug?",
+    "component": "C:\\\\Users\\\\FIO\\\\Downloads\\\\Tarea3SnipCard\\\\pages\\\\pintura\\\\_slug.vue",
+    "chunkName": "pages/pintura/_slug",
+    "_name": "_6c1983a3"
+  }
+]

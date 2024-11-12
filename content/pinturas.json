@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "mona-lisa",
+    "title": "La Mona Lisa",
+    "artist": "leonardo-da-vinci",
+    "year": "1503",
+    "description": "Un retrato pintado por el artista renacentista italiano Leonardo da Vinci.",
+    "museum": "british-museum",
+    "image": "/images/pinturas/mona-lisa.jpg"
+  },
+  {
+    "slug": "starry-night",
+    "title": "La Noche Estrellada",
+    "artist": "vincent-van-gogh",
+    "year": "1889",
+    "description": "Un óleo sobre lienzo pintado por el postimpresionista neerlandés Vincent van Gogh.",
+    "museum": "museum-of-modern-art",
+    "image": "/images/pinturas/starry-night.jpg"
+  },
+  {
+    "slug": "the-last-supper",
+    "title": "La Última Cena",
+    "artist": "leonardo-da-vinci",
+    "year": "1498",
+    "description": "Un mural pintado por Leonardo da Vinci.",
+    "museum": "british-museum",
+    "image": "/images/pinturas/the-last-supper.jpeg"
+  },
+  {
+    "slug": "sunflowers",
+    "title": "Los Girasoles",
+    "artist": "vincent-van-gogh",
+    "year": "1888",
+    "description": "Una serie de pinturas realizadas por Vincent van Gogh.",
+    "museum": "vatican-museums",
+    "image": "/images/pinturas/sunflowers.jpeg"
+  },
+  {
+    "slug": "guernica",
+    "title": "Guernica",
+    "artist": "pablo-picasso",
+    "year": "1937",
+    "description": "Un mural de gran tamaño al óleo sobre lienzo del artista español Pablo Picasso.",
+    "museum": "museum-of-modern-art",
+    "image": "/images/pinturas/guernica.jpg"
+  },
+  {
+    "slug": "water-lilies",
+    "title": "Los Nenúfares",
+    "artist": "claude-monet",
+    "year": "1919",
+    "description": "Una serie de aproximadamente 250 óleos del impresionista francés Claude Monet.",
+    "museum": "state-hermitage-museum",
+    "image": "/images/pinturas/water-lilies.jpg"
+  }
+]

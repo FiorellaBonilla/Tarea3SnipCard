@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "leonardo-da-vinci",
+    "name": "Leonardo da Vinci",
+    "birthYear": "1452",
+    "nationality": "Italiano",
+    "biography": "Un polímata italiano del Renacimiento, cuyas áreas de interés incluían la invención, la pintura, la escultura, la arquitectura, la ciencia, la música y las matemáticas.",
+    "famousWorks": ["Mona Lisa", "La Última Cena"],
+    "image": "/images/artista/leonardo-da-vinci.jpg",
+    "paintings": ["mona-lisa", "la-ultima-cena"]
+  },
+  {
+    "slug": "vincent-van-gogh",
+    "name": "Vincent van Gogh",
+    "birthYear": "1853",
+    "nationality": "Neerlandés",
+    "biography": "Un pintor postimpresionista neerlandés que está entre las figuras más famosas e influyentes en la historia del arte occidental.",
+    "famousWorks": ["Noche Estrellada", "Los Girasoles"],
+    "image": "/images/artista/vincent-van-gogh.jpg",
+    "paintings": ["noche-estrellada", "los-girasoles"]
+  },
+  {
+    "slug": "pablo-picasso",
+    "name": "Pablo Picasso",
+    "birthYear": "1881",
+    "nationality": "Español",
+    "biography": "Un pintor, escultor, grabador, ceramista y diseñador de teatro español. Picasso es considerado uno de los artistas más influyentes del siglo XX.",
+    "famousWorks": ["Guernica", "La Mujer que Llora"],
+    "image": "/images/artista/pablo-picasso.jpg",
+    "paintings": ["guernica", "la-mujer-que-llora"]
+  },
+  {
+    "slug": "claude-monet",
+    "name": "Claude Monet",
+    "birthYear": "1840",
+    "nationality": "Francés",
+    "biography": "Fundador de la pintura impresionista francesa, Monet fue el practicante más constante y prolífico de la filosofía del movimiento: expresar las percepciones de la naturaleza.",
+    "famousWorks": ["Nenúfares", "Impresión, Sol Naciente"],
+    "image": "/images/artista/claude-monet.jpg",
+    "paintings": ["nenufares", "impresion-sol-naciente"]
+  },
+  {
+    "slug": "rembrandt-van-rijn",
+    "name": "Rembrandt van Rijn",
+    "birthYear": "1606",
+    "nationality": "Neerlandés",
+    "biography": "Pintor del Siglo de Oro neerlandés, Rembrandt es considerado uno de los más grandes artistas visuales en la historia del arte, y el más importante en la historia del arte neerlandés.",
+    "famousWorks": ["La Ronda de Noche", "Autorretrato"],
+    "image": "/images/artista/rembrandt-van-rijn.jpg",
+    "paintings": ["la-ronda-de-noche", "autorretrato"]
+  },
+  {
+    "slug": "frida-kahlo",
+    "name": "Frida Kahlo",
+    "birthYear": "1907",
+    "nationality": "Mexicana",
+    "biography": "Una pintora mexicana conocida por sus numerosos retratos, autorretratos y obras inspiradas en la naturaleza y los artefactos de México.",
+    "famousWorks": ["Las Dos Fridas", "Autorretrato con Collar de Espinas"],
+    "image": "/images/artista/frida-kahlo.jpg",
+    "paintings": ["las-dos-fridas", "autorretrato-con-collar-de-espinas"]
+  }
+]
