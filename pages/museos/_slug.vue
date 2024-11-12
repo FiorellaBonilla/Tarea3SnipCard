@@ -25,7 +25,7 @@
 					:data-item-description="museo.description"
 					:data-item-image="'/images/'+museo.image"
 					:data-item-name="museo.title"
-					>Buy Me!</button>
+					>Comprame!</button>
       </div>
       <div class="two columns"></div>
     </div>

@@ -19,7 +19,7 @@
 					:data-item-description="painting.description"
 					:data-item-image="'/images/'+painting.image"
 					:data-item-name="painting.title"
-					>Buy Me!</button>
+					>Comprame!</button>
       </div>
       <div class="two columns"></div>
     </div>

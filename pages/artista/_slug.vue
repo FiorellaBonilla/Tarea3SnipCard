@@ -25,7 +25,7 @@
 					:data-item-description="artist.nationality"
 					:data-item-image="'/images/'+artist.image"
 					:data-item-name="artist.title"
-					>Buy Me!</button>
+					>Comprame!</button>
       </div>
       <div class="two columns"></div>
     </div>
