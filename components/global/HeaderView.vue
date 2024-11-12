@@ -8,6 +8,6 @@
       Museo</NuxtLink>
     <NuxtLink class="three columns button button-primary" to="/pinturas">
       Pinturas</NuxtLink>
-      <button class="snipcart-checkout three columns button"><span class="snipcart-items-count">0</span> in the 🛒 </button>
+      <button class="snipcart-checkout three columns button"><span class="snipcart-items-count">0</span> Articulo en el carrito 🛒 </button>
   </div>
 </template>
